@@ -14,7 +14,7 @@ This project analyzes over 9,000 transaction records from an e-commerce retail s
 ---
 
 ## Visualizations
-![Sales Chart](outputs/sales_chart.png)
+![Sales Chart](output/sales_chart.png)
 
 ---
 
